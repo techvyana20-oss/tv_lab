@@ -64,7 +64,8 @@ Generate strong passwords and study brute-force resistance.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/tv_lab.git cd tv_lab
+git clone https://github.com/techvyana20-oss/tv_lab.git
+git cd tv_lab
 
 Install dependencies:
 
@@ -125,7 +126,7 @@ tools - Network intrusion modules
 
 ## 👨‍💻 Author
 
-TechVyana
+TechVyana2.0
 
 ------------------------------------------------------------------------
 
